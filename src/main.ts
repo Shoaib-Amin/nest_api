@@ -9,7 +9,7 @@ async function bootstrap() {
 
   const config = new DocumentBuilder()
     .setTitle('My API')
-    .setDescription('API description')
+    .setDescription('API DESCRIPTION')
     .setVersion('1.0')
     .build();
 
